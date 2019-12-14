@@ -1,4 +1,4 @@
 # Initiation_Kotlin
 
-Exercices réalisés par:
+Exercices réalisés par:  
 Nicolas Brazzolotto
