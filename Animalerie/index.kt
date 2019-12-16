@@ -1,15 +1,13 @@
 fun main(){
 
-    /*var jeSuisUnChien: Animal = Chien()
+    var jeSuisUnChien: Animal = Chien()
     jeSuisUnChien.parler()
-    jeSuisUnChien.quiSuisJe()*/
+    jeSuisUnChien.quiSuisJe()
 
 
     var animalerie = Animalerie()
-    /*animalerie.add("Chat", "Spyro")
-    animalerie.add("Chien", "Rex")*/
-    var poppy  = Chat()
-    var rex = Chien()
+    var poppy: Animal  = Chat()
+    var rex: Animal = Chien()
     animalerie.add2(poppy)
     animalerie.add2(rex)
 
